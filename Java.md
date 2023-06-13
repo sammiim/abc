@@ -45,3 +45,13 @@ It is a lightweight edition specialized for embedded system environments such as
 - [Alibaba Dragonwell](https://dragonwell-jdk.io/) : A JDK created by Alibaba, which is known for contributing to OpenJDK more than expected. Therefore, China is encouraging Java development through this JDK. If not for that reason, there are many options, so it is recommended not to use it except for Java development in China.
 - [SapMachine](https://github.com/SAP/SapMachine/releases) : A JDK made by SAP, completely SAP specific. Therefore, there is nothing to see unless it is SAP development.
 - [Red Hat OpenJDK](https://developers.redhat.com/products/openjdk/download) : This is a JDK made by Red Hat. It runs on Red Hat Linux and its base, CentOS, and is widely used when installing OpenJDK in Korea without knowing it. In other words, if you search to install OpenJDK on CentOS or Red Hat, it is likely that this is the JDK to be searched and installed. It does not work on anything other than Red Hat-based Linux. However, the official site additionally provides a Windows version.
+
+### 4. List of famous JVM languages
+- closer
+- Groovy: A dynamically typed language that combines features of Python, Ruby, and SmallTalk with Java. Appeared in 2003. It is the primary language for Gradle package management.
+- JRuby: A language implementation of most of Ruby in Java. It is also compatible with Java.
+- Jython: A Java implementation of Python. It runs on the JVM, so it is possible to use Java classes and JARs with Python modules.
+- Kotlin: JVM language developed by JetBrains, creators of IntelliJ IDEA. It was designated as the official language of Android at Google I/O 2017.[9]
+- Rhino: A JavaScript engine running on the JVM, developed 100% Java by the Mozilla Foundation. It can be developed using both JavaScript and Java APIs. It's built into Java 7.
+- Nashorn: A JavaScript engine that runs on top of another JVM. It appeared with Java 8. However, it is planned to be removed from Java 11 and completely removed from Java 15. By the way, Nashorn is German for Rhino. After removal, GraalVM takes over.
+- scalar
