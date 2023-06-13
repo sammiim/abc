@@ -29,4 +29,4 @@ It is a lightweight edition specialized for embedded system environments such as
 ### 4. Comparison with C and C++
 - As object-oriented features were added to the existing C, it was developed as an object-oriented language from the beginning, unlike C++, where there were many conflicts between low-level and high-level concepts in the use of the language.
 - Java is not strictly an object-oriented language. Primitive types are not treated as objects. A language that treats everything as an object is called pure object-oriented, and languages ​​that support it include Python, Ruby, and Smalltalk.
-- As with C-type programming languages, it has a syntactic structure similar to that of C/C++. However, there are many areas where Java is much more widely used than C/C++.
+- As with [C-type programming languages](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages), it has a syntactic structure similar to that of C/C++. However, there are many areas where Java is much more widely used than C/C++.
